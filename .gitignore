@@ -1,0 +1,12 @@
+/quizzes
+
+/naive_bayes_mp1/CS440_ECE448 MP 1_files
+
+**/__pycache__/
+**/data/
+**/test_data/
+
+*.zip
+
+/search_mp4/b
+/search_mp4/mp3
